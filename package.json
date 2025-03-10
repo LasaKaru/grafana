@@ -273,7 +273,7 @@
     "@grafana/monaco-logql": "^0.0.8",
     "@grafana/o11y-ds-frontend": "workspace:*",
     "@grafana/plugin-ui": "0.10.1",
-    "@grafana/prometheus": "workspace:*",
+    "@grafana/prometheus": "0.0.1",
     "@grafana/runtime": "workspace:*",
     "@grafana/saga-icons": "workspace:*",
     "@grafana/scenes": "5.41.2",
